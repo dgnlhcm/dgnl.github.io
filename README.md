@@ -1,3 +1,4 @@
-# demnguockithi
+#dgnlhcm
 
-Trang web đếm ngược kì thi tốt nghiệp THPT (THPT Quốc gia)
+Trang web đếm ngược kì thi Đánh giá Năng lực ĐHQG-HCM (idea nguồn code từ anhkhoatqt11)
+
